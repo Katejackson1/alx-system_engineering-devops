@@ -1,2 +1,2 @@
-#!/bin/nash
+#!/bin/bash
 chown -h vincent:_staff _hello
