@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod -h vincent:staff _hello
+#!/bin/nash
+chown -h vincent:_staff _hello
